@@ -1,0 +1,68 @@
+@media screen and (max-width: 600px) {
+	body{
+	clear: both;
+		
+	}
+	header{
+		width: 100%;
+		height: 30em;
+		margin: 0;
+	}
+	#migasamigas{
+		width: 100%;
+		height: 40em;
+	}
+	
+	#section1{
+		margin: 0;
+		padding: 0;
+		width: 100%;
+		height: 100%;
+	}
+    
+	#section2{
+		margin: 0;
+		padding: 0;
+		width: 100%;
+		height: 100%;
+	}
+
+	.slider{
+		width: 70%;
+		height: 50%;
+		float: left;
+		margin-left: 5em;
+		
+	}
+	
+	
+	#section3{
+		margin: 0;
+		padding: 0;
+		width: 100%;
+		height: 100%;
+	}
+	#section4{
+		margin: 0;
+		padding: 0;
+		width: 100%;
+		height: 100%;
+	}
+
+	#section4 article{
+		width: 70%;
+		height: 100%;
+		float: left;
+		margin-left: 5em;
+	}
+	
+	#section4 article img{
+		width: 70%;
+		height: 10em;
+		display: flex;
+		padding-left:3em ;
+	}
+
+
+	
+	}
